@@ -1,0 +1,17 @@
+.sea_con{
+    width: 100%;
+    height:40px;
+    /* background-color: red; */
+}
+
+/* 修改antd的样式 */
+.ant-select{
+    width: 80px !important;
+    margin-right: 10px !important;
+   
+}
+.se_input{
+    float: left;
+    width: 400px;
+    margin-left: 20px;
+}

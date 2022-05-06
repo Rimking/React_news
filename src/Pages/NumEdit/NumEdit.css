@@ -1,0 +1,17 @@
+
+.Num_model{
+    width: 100%;
+    height: 100%;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+.centerMode{
+    width: 600px;
+    height:auto;
+    min-height: 400px;
+    background-color: rgba(250, 244, 236, 0.7);
+    margin: 0 auto;
+    padding: 20px 30px 30px 30px ;
+    box-sizing: border-box;
+    border-radius: 15px;
+}

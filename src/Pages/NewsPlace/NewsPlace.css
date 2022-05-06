@@ -1,0 +1,83 @@
+
+.banner_newplace{
+    width: 1000px;
+    height: 500px;
+    /* background-color: rgb(237, 163, 216); */
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+/* 盒子 */
+.BoxModol{
+    width: 1000px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.search{
+    width: 54%;
+    height: 40px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    
+}
+/* 单个留言 */
+.item_news{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    /* background-color: rgb(224, 181, 125); */
+    
+}
+/* 留言模块 */
+.itms{
+    width: 1000px;
+    height:auto;
+    margin: 0 auto;
+    min-height: 400px;
+    /* background-color: rgb(219, 172, 231); */
+}
+
+
+.bannerIMA{
+    width: 100% !important;
+    height: 500px !important;
+}
+
+
+
+/* 公告 */
+.ggModelCones{
+    width: 1000px;
+    height: auto;
+    min-height:68px;
+    max-height: 120px;
+    background-color: rgba(250, 244, 236, 0.7);
+    margin:  0 auto;
+    border-radius: 15px;
+    padding-left:20px ;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+.notsifisca{
+    width: 60px;
+    height: auto;
+    float: left;
+    font-size: 32px;
+    text-align: center;
+    color: rgb(235, 52, 32);
+}
+.notsicons{
+    float: left;
+    width: 850px;
+    height: auto;
+    max-height: 55px;
+    overflow: hidden;
+    margin: 0 ;
+}
+
+.notsitioms{
+    float: left;
+    width: 850px;
+    height: 20px;
+    margin: 0 ;
+}

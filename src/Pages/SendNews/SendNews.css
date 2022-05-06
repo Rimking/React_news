@@ -1,0 +1,67 @@
+.SendNews{
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+.send_center{
+    width: 800px;
+    height: auto;
+    margin: 0 auto;
+    /* min-height: 380px; */
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;border: 1px solid rgba(155, 154, 154,.5);
+}
+/* 标题 */
+.sen_tils{
+    width: 100%;
+    height: 40px;
+    /* background-color: yellow; */
+}
+.sen_tils .sen_cons{
+    float: left;
+    width:18%;
+    padding: 0 10px;
+    line-height: 40px;
+    text-align: center;
+}
+.sen_inps{
+    width: 70%;
+    float: left;
+    line-height: 40px;
+}
+/* 内容部分 */
+.sen_conents{
+    width: 100%;
+    height: auto;
+    min-height: 200px;
+    margin-top: 10px;
+    /* background-color: rgb(61, 179, 57); */
+}
+.sen_tex{
+    float: left;
+    width:18%;
+    padding: 0 10px;
+    line-height: 40px;
+    text-align: center;
+}
+.sen_textaus{
+    width: 70%;
+    float: left;
+    line-height: 40px;
+}
+
+.ant-input-textarea{
+    height: 200px;
+}
+/* 按钮 */
+.sen_btns{
+    width:62%;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 20px;
+    /* background-color: rgb(202, 133, 133); */
+}
+.sen_btns button{
+    float: right;
+}

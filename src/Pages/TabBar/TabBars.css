@@ -1,0 +1,96 @@
+/* 
+    主页
+
+*/
+
+.tabbarOnew{
+    width: 1000px;
+    height:80px;
+    margin: 0 auto;
+    /* background-color: transparent !important; */
+}
+.tab_left_tis{
+    float: left;
+    width: 260px;
+    height: 80px;
+    margin-right: 100px;
+}
+.webNAME{
+    float: left;
+    line-height: 80px;
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-image:-webkit-linear-gradient(bottom,rgb(19, 91, 226),#fd8403,yellow); 
+    background-clip:text; 
+    -webkit-text-fill-color:transparent; 
+}
+.tab_left_tis .webLogos{
+    float: left;
+    width: 35px;
+    height: 35px;
+    margin-top: 23px;
+    margin-right: 12px;
+}
+.tab_left_tis .webLogos img{
+    width: 35px;
+    height: 35px;
+}
+
+.atb_left_ul{
+    float: left;
+    width: 600px;
+    height: 80px;
+}
+
+
+.link {
+    display: block;
+    text-decoration: none;
+    color: white;
+    width: 100%;
+    height:60px;
+    font-size: 18px;
+}
+
+.Bars {
+    width: 100%;
+    height: 100%;
+    background-color:rgba(223, 221, 221, 0.7);
+    box-sizing: border-box;
+}
+
+/* tab_ul */
+.tab_ul {
+    width: 100%;
+    height:100%;
+    margin: 0 auto;
+    /* display: none; */
+}
+
+.tab_ul>li {
+    list-style: none;
+    float: left;
+    width: 20%;
+    height: 100%;
+    transition: all 0.3s;
+    line-height: 80px;
+    text-align: center;
+   
+}
+
+.tab_ul>li span {
+    padding:  10px;
+    box-sizing: border-box;
+    transition: all 0.3s;
+}
+
+.link:hover {
+    color: red;
+}
+
+.isThisTab{
+    border-bottom: 1px solid rgb(255, 6, 6);
+}
+
+
